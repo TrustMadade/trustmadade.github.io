@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Assets/images/IMG_0015.jpg" alt="San Francisco Skyline" width="100%">
+  <img src="/Assets/images/San_Fran.jpeg" alt="San_Francisco_Skyline" width="100%">
 </p>
 
 ---
