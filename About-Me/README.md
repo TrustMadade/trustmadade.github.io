@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Me
+permalink: /about/
+---
+
 # About Me  
 
 ## Hello, I’m Trust!  
