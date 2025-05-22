@@ -53,8 +53,8 @@ I have experience integrating diverse datasets into comprehensive dashboards and
 
 ## 📫 Contact
 
-📧 [trust.madade@email.com](mailto:trust.madade@email.com)  
-🔗 [LinkedIn](https://linkedin.com/in/trustmadade)
+📧 [trust.madade@gmail.com](mailto:trustmadade.tm@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/trust-madade-827443b8 )
 
 ---
 
