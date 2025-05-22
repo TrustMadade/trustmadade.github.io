@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# 💼 Portfolio Projects
+# Portfolio Projects
 
 Explore real-world projects applying analytics, strategy, and visualization to solve business problems.
 
@@ -31,10 +31,10 @@ Explore real-world projects applying analytics, strategy, and visualization to s
 
 ---
 
-### Fix Chocolatier U.S. Instagram Campaign  
+### Fix Chocolate Knafeh U.S. Instagram Campaign  
 **Tag:** Campaign Strategy  
 *Created a two-phase ad campaign to launch a viral chocolate bar in the U.S. Focused on audience personas, ASMR reels, influencer activation, and ad hooks.*  
-[View Project »](/projects/fix-chocolatier-campaign/)
+[View Project »](/projects/fix-chocolate-campaign/)
 
 ---
 
