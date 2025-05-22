@@ -1,12 +1,6 @@
 ---
 layout: default
-title: Trust Madade – Portfolio
----
-
-# About Me
-
-I’m Trust Madade, a data-driven Marketing Analyst with a passion for extracting insights from complex datasets. I specialize in digital strategy, visualization, campaign optimization, and analytics reporting.
-
+title: Trust Madade 
 ---
 
 ## Featured Projects
@@ -21,7 +15,7 @@ Analyzed Facebook post data using Power BI. Identified post types, timing, and v
 ### Fix Chocolate Knafeh U.S. Instagram Campaign  
 <span class="project-tag">Campaign Strategy</span>  
 Designed Instagram campaign strategy for viral Dubai chocolate bar entering the U.S.  
-[View Project »](/projects/fix-chocolatier-campaign/)
+[View Project »](/projects/fix-chocolate-campaign/)
 
 ---
 
