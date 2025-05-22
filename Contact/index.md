@@ -6,5 +6,5 @@ permalink: /contact/
 
 # 📫 Contact Me
 
-- 📧 Email: [trust.madade@email.com](mailto:trust.madade@email.com)
-- 🔗 LinkedIn: [linkedin.com/in/trustmadade](https://linkedin.com/in/trustmadade)
+- 📧 Email: [trustmadade.tm@gmail.com](mailto:trustmadade.tm@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/trust-madade-827443b8 ](https://www.linkedin.com/in/trust-madade-827443b8 )
