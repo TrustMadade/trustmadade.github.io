@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/Assets/images/licensed-image.jpeg" alt="Victoria Falls" width="48%">
-  <img src="/Assets/images/IMG_0015.jpg" alt="San Francisco" width="48%">
+  <img src="/Assets/images/san-francisco.jpg" alt="San Francisco" width="48%">
 </p>
 
 
