@@ -17,8 +17,8 @@
 ## From Zimbabwe to San Francisco
 
 <div class="about-image-row">
-  <img src="/assets/images/licensed-image.jpeg" alt="Victoria Falls">
-  <img src="/assets/images/san-francisco.jpg" alt="San Francisco">
+  <img src="/Assets/images/licensed-image.jpeg" alt="Victoria Falls">
+  <img src="/Assets/images/san-francisco.jpg" alt="San Francisco">
 </div>
 
 
