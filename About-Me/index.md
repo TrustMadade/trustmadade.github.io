@@ -1,12 +1,3 @@
-## 🌍 My Journey
-
-<p align="center">
-  <img src="/assets/images/IMG_2962.jpeg" alt="Victoria Falls" width="48%">
-  <img src="/assets/images/IMG_0015.jpg" alt="San Francisco" width="48%">
-</p>
-
-From Ruwa, Zimbabwe 🇿🇼 to San Francisco 🇺🇸 — bringing insights from every step of the journey.
-
 ---
 layout: default
 title: About Me
