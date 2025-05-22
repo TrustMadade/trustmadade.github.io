@@ -1,4 +1,27 @@
-title: Trust Madade
-theme: jeckll-theme-minimal
-<meta name="description" content="Trust Madade | Marketing Analyst | Data-Driven Strategies">
-<meta name="keywords" content="Marketing Analytics, Data Visualization, SQL, Tableau, Power BI">
+# Site settings
+title: "Trust Madade | Marketing Analytics Portfolio"
+description: "Data-driven marketing analyst specializing in customer segmentation, campaign tracking, and predictive modeling."
+url: "https://trustmadade.github.io"
+baseurl: "/portfolio"
+
+# SEO optimization
+author: "Trust Madade"
+keywords: "Marketing Analytics, Data Visualization, SQL, Python, Tableau, Power BI"
+google_analytics: "UA-XXXXXXXXX-X"  # Add your Google Analytics tracking ID if needed
+
+# Theme settings
+theme: minima  # Change to another Jekyll theme if desired
+paginate: 5  # Number of posts per page
+timezone: America/Los_Angeles  # Adjust if needed
+
+# Social links
+linkedin: "https://linkedin.com/in/trustmadade"
+github: "https://github.com/TrustMadade"
+
+# Plugins (if using Jekyll)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
