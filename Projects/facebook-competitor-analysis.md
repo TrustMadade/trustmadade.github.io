@@ -47,7 +47,7 @@ In this solo project, I acted as a data intern for a growing cosmetics company s
 
 ---
 
-## Files & Assets
+## Files 
 
 - [Download the Power BI Dashboard (.pbix)](https://trustmadade.github.io/portfolio/assets/facebook-competitor.pbix)
 - [Dashboard Screenshot (JPG)](https://trustmadade.github.io/portfolio/assets/facebook-dashboard-screenshot.jpg)
