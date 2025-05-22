@@ -3,7 +3,21 @@ layout: default
 title: About
 permalink: /about/
 ---
-
+<style>
+  .about-image-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .about-image-row img {
+    max-width: 48%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+</style>
 ## From Zimbabwe to San Francisco
 
 <p align="center">
