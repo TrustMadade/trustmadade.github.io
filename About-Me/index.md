@@ -1,8 +1,3 @@
----
-layout: default
-title: About
-permalink: /about/
----
 <style>
   .about-image-row {
     display: flex;
@@ -18,12 +13,14 @@ permalink: /about/
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   }
 </style>
+
 ## From Zimbabwe to San Francisco
 
-<p align="center">
-  <img src="/Assets/images/licensed-image.jpeg" alt="Victoria Falls" width="48%">
-  <img src="/Assets/images/san-francisco.jpg" alt="San Francisco" width="48%">
-</p>
+<div class="about-image-row">
+  <img src="/assets/images/licensed-image.jpeg" alt="Victoria Falls">
+  <img src="/assets/images/san-francisco.jpg" alt="San Francisco">
+</div>
+
 
 ---
 
