@@ -1,2 +1,14 @@
 title: Trust Madade
 theme: jeckll-theme-minimal
+description: My projects' portfolio
+author: Trust Madade
+logo: /assets/img/profile.png
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+email: trustmadade.tm@gmail.com
+location: San Francisco, USA
+linkedin_username: Trust Madade
+github_username: Trust Madade
