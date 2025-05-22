@@ -1,4 +1,4 @@
-<img src="assets/images/profile-picture.jpg" alt="Trust Madade" width="400">
+<img src="assets/portfolio-banner.jpg" alt="Trust Madade" width="400">
 
 # Marketing Analytics Portfolio  
 
@@ -26,6 +26,6 @@ Detail-oriented **Marketing Analyst** with a strong foundation in statistical an
 Data Analysis and Statistical Modeling | Marketing Strategy | Business Intelligence and Reporting | Data Visualization | Project Management | Data Management and Querying  
 
 ## Get in Touch  
-📬 **Email**: [trustmadade.tm@gmail.com]  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/trust-madade-827443b8 ]  
-🌐 **Portfolio**: [trustmadade.github.io]    
+📬 **Email**: trustmadade.tm@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/trust-madade-827443b8  
+🌐 **Portfolio**: trustmadade.github.io    
