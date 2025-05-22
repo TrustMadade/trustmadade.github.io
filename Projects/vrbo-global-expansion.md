@@ -13,7 +13,7 @@ Our pitch focused on the intersection of cultural preservation, authentic travel
 
 ---
 
-## My Role & Contributions
+## My Role and Contributions
 
 I co-developed the expansion strategy and helped shape the owner incentive model, audience targeting, and revenue projections based on VRBO’s existing fee structure and emerging market opportunities outside the U.S.
 
