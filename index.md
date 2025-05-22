@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/images/IMG_0015.jpg" alt="San Francisco Skyline" width="100%">
+</p>
+
 ---
 layout: default
 title: Trust Madade 
