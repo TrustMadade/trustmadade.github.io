@@ -1,3 +1,5 @@
+<img src="assets/images/profile-picture.jpg" alt="Trust Madade" width="400">
+
 # Marketing Analytics Portfolio  
 
 Welcome to my GitHub portfolio! Here, you'll find my resume, personal background, and analytics-driven projects showcasing marketing insights.  
