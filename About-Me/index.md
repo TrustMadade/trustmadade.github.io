@@ -5,12 +5,7 @@
   <img src="/Assets/images/san-francisco.jpg" alt="San Francisco" width="48%">
 </p>
 
-
 ---
-layout: default
-title: About Me
-permalink: /about/
---- 
 
 ## Hello, I’m Trust!  
 
