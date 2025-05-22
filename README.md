@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! Here, you'll find my resume, personal background, and analytics-driven projects showcasing marketing insights.  
 
 ## Resume  
-[View my resume](Resume/Trust.pdf)  
+[View my resume](Resume/Trust-Resume.pdf)  
 
 ## About Me   
 Detail-oriented **Marketing Analyst** with a strong foundation in statistical analysis and data visualization, dedicated to uncovering actionable insights that drive strategic marketing decisions. Experienced in integrating diverse data sources to create comprehensive reports that support campaign optimization and customer engagement initiatives. Proven ability to work collaboratively in fast-paced environments, delivering measurable business outcomes through innovative analytics solutions.
