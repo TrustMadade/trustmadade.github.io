@@ -6,7 +6,7 @@
 
 ## About Me
 
-Detail-oriented **Marketing Analyst** with a strong foundation in **statistical analysis**, **data visualization**, and **business intelligence**. I specialize in uncovering insights that support **campaign optimization**, **customer segmentation**, and **performance reporting**.
+Detail-oriented Marketing Analyst with a strong foundation in statistical analysis, data visualization, and business intelligence. I specialize in uncovering insights that support campaign optimization, customer segmentation, and performance reporting.
 
 I have experience integrating diverse datasets into comprehensive dashboards and strategic presentations that influence cross-functional teams. Known for my collaborative mindset and ability to deliver measurable business outcomes in fast-paced environments.
 
