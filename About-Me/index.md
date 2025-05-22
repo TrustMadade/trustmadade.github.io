@@ -1,3 +1,11 @@
+## From Zimbabwe to San Francisco
+
+<p align="center">
+  <img src="/Assets/images/IMG_2962.jpeg" alt="Victoria Falls" width="48%">
+  <img src="/Assets/images/IMG_0015.jpg" alt="San Francisco" width="48%">
+</p>
+
+
 ---
 layout: default
 title: About Me
