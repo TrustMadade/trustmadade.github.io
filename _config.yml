@@ -1,35 +1,31 @@
+title: Trust Madade – Marketing Analytics Portfolio
+description: A portfolio showcasing projects in data analytics, marketing strategy, and visualization.
+author: Trust Madade
 url: "https://trustmadade.github.io"
-baseurl: "/portfolio"
+baseurl: "" # do not include a trailing slash
 
-author: "Trust Madade"
-keywords: "Marketing Analytics, Consumer Insights, Campaign Performance, SQL, Python, Tableau, Power BI"
+# SEO and metadata
+keywords: "Marketing Analytics, Data Visualization, SQL, Power BI, Tableau, Python, Business Intelligence"
 
-theme: minima  
-favicon: "assets/favicon.ico" 
-
-linkedin: "https://linkedin.com/in/trustmadade"
-github: "https://github.com/TrustMadade"
-portfolio: "https://trustmadade.github.io/portfolio"
-
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "About Me"
-    url: "/about"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Contact"
-    url: "/contact"
-
-plugins:
-  - jekyll-seo-tag  # Improves search engine visibility
-  - jekyll-sitemap  # Generates a sitemap for indexing
-  - jekyll-feed  # Enables RSS feed support
-  - jekyll-social-icons  # Adds social media icons
-  - jekyll-paginate  # Paginate blog posts if applicable
-
-# 📅 Build Settings
+# Theme and layout
+theme: minima
 markdown: kramdown
 permalink: pretty
-paginate: 5  # Adjust number of posts per page if blogging
-timezone: America/Los_Angeles  # Update for accurate timestamps
+timezone: America/Los_Angeles
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Navigation links
+nav_links:
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "Contact"
+    url: "/contact/"
