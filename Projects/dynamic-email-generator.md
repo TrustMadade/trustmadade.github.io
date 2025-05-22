@@ -36,7 +36,7 @@ The challenge was to adhere to formatting rules, apply proper logic, and scale o
 
 ---
 
-## ⚙Methodology
+## Methodology
 
 ### 1. Data Setup  
 The project uses pre-defined lists representing customer data, including name, category interest, marketing hooks, and promotion codes.
