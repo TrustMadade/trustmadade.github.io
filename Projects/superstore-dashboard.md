@@ -55,6 +55,9 @@ This individual Tableau project explores sales and profitability trends in the *
 - Profitability analysis  
 - Data-driven marketing strategy formulation
 
+---
+
+📄 [Download the Full Dashboard Report (PDF)](https://trustmadade.github.io/portfolio/assets/Superstore-Sales-Dashboard.twbx) 
 
 ---
 
