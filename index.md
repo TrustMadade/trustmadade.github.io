@@ -1,10 +1,7 @@
 <p align="center">
   <img src="/Assets/images/wallpaperflare.jpg" alt="San_Francisco_Skyline" width="100%">
 </p>
-
----
-layout: default
-title: Trust Madade 
+ 
 ---
 
 ## Featured Projects
