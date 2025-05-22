@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Fix Chocolatier U.S. Launch – Instagram Campaign"
-permalink: /projects/fix-chocolatier-campaign/
+title: "Fix Chocolate knafeh U.S. Launch – Instagram Campaign"
+permalink: /projects/fix-chocolate-campaign/
 ---
 
 # Fix Chocolate Knafeh U.S. Launch – Instagram Campaign
