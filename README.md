@@ -57,8 +57,6 @@ I have experience integrating diverse datasets into comprehensive dashboards and
 
 🔗 [LinkedIn](https://www.linkedin.com/in/trust-madade-827443b8 )
 
-☎️ [Text|Call](4155721403) 
-
 ---
 
 > 💡 This portfolio is built using GitHub Pages & Jekyll.
