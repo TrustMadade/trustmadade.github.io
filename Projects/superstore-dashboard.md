@@ -57,7 +57,7 @@ This individual Tableau project explores sales and profitability trends in the *
 
 ---
 
-📄 [Download the Full Dashboard Report (PDF)](https://trustmadade.github.io/portfolio/assets/Superstore-Sales-Dashboard.twbx) 
+📄 [Download the Full Dashboard Report (tbwx)](https://trustmadade.github.io/portfolio/assets/Superstore-Sales-Dashboard.twbx) 
 
 ---
 
