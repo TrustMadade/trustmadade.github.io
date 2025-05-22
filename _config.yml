@@ -1,27 +1,44 @@
-# Site settings
-title: "Trust Madade | Marketing Analytics Portfolio"
-description: "Data-driven marketing analyst specializing in customer segmentation, campaign tracking, and predictive modeling."
+# 🔹 Site Information
+title: "Trust Madade | Marketing Analytics & Data Strategy"
+description: "Marketing Analyst leveraging data analytics to optimize campaigns, customer engagement, and business growth."
 url: "https://trustmadade.github.io"
 baseurl: "/portfolio"
 
-# SEO optimization
+# 🛠 SEO Optimization
 author: "Trust Madade"
-keywords: "Marketing Analytics, Data Visualization, SQL, Python, Tableau, Power BI"
-google_analytics: "UA-XXXXXXXXX-X"  # Add your Google Analytics tracking ID if needed
+keywords: "Marketing Analytics, Consumer Insights, Campaign Performance, SQL, Python, Tableau, Power BI"
+google_analytics: "UA-XXXXXXXXX-X"  # (Replace with your Google Analytics Tracking ID)
 
-# Theme settings
-theme: minima  # Change to another Jekyll theme if desired
-paginate: 5  # Number of posts per page
-timezone: America/Los_Angeles  # Adjust if needed
+# 🎨 Design & Branding
+theme: minima  # You can change this theme to a custom one
+favicon: "assets/favicon.ico"  # Ensure your favicon image is added in assets
 
-# Social links
+# 📢 Social Media Links
 linkedin: "https://linkedin.com/in/trustmadade"
 github: "https://github.com/TrustMadade"
+portfolio: "https://trustmadade.github.io/portfolio"
 
-# Plugins (if using Jekyll)
+# 📝 Navigation Menu (for structured portfolio pages)
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+
+# 🔍 Plugins & Enhancements
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-seo-tag  # Improves search engine visibility
+  - jekyll-sitemap  # Generates a sitemap for indexing
+  - jekyll-feed  # Enables RSS feed support
+  - jekyll-social-icons  # Adds social media icons
+  - jekyll-paginate  # Paginate blog posts if applicable
 
-# Build settings
+# 📅 Build Settings
 markdown: kramdown
+permalink: pretty
+paginate: 5  # Adjust number of posts per page if blogging
+timezone: America/Los_Angeles  # Update for accurate timestamps
