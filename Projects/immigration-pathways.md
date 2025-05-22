@@ -4,42 +4,42 @@ title: "Immigration Pathways – SEO Technical Setup"
 permalink: /projects/immigration-pathways/
 ---
 
-# 🌐 Immigration Pathways – SEO Technical Setup
+# Immigration Pathways – SEO Technical Setup
 
-## 🎯 Project Overview
+## Project Overview
 
-This project was a team-led initiative under **MIMA Team 6** for a startup called **Immigration Pathways**, a new AI-powered immigration service founded in Silicon Valley. Our objective was to design and present a comprehensive SEO and technical marketing strategy to launch and scale the startup’s online visibility.
-
----
-
-## 🛠️ My Role & Contributions
-
-As part of the team, I contributed to the **technical SEO audit**, **competitive benchmarking**, and helped define our **backlink and content strategy**. I also collaborated on the presentation and marketing recommendations using tools like **SEMrush**, **Google Search Console**, and **keyword planners**.
+This project was a team-led initiative under MIMA Team 6 for a startup called **Immigration Pathways**, a new AI-powered immigration service founded in Silicon Valley. Our objective was to design and present a comprehensive SEO and technical marketing strategy to launch and scale the startup’s online visibility.
 
 ---
 
-## 📈 What We Delivered
+## My Role and Contributions
 
-- ✅ Performed a detailed **SEO Audit** (site health, meta structure, internal linking, toxic backlinks)
-- ✅ Built a **backlink audit** with improvement opportunities and domain authority comparison
-- ✅ Identified and evaluated **high-impact influencers** by platform engagement
-- ✅ Developed a **keyword map**, including long-tail and branded terms
-- ✅ Outlined **Google Analytics & Search Console setup** milestones
-- ✅ Mapped out a **quarterly growth strategy** to support authority-building and organic ranking
+As part of the team, I contributed to the technical SEO audit, competitive benchmarking, and helped define our backlink and content strategy. I also collaborated on the presentation and marketing recommendations using tools like **SEMrush**, **Google Search Console**, and **keyword planners**.
 
 ---
 
-## 💡 Key Insights
+## What We Delivered
 
-- A new domain must balance **technical optimization** and **content authority**
+- Performed a detailed SEO Audit (site health, meta structure, internal linking, toxic backlinks)
+- Built a backlink audit with improvement opportunities and domain authority comparison
+- Identified and evaluated high-impact influencers by platform engagement
+- Developed a keyword map, including long-tail and branded terms
+- Outlined Google Analytics and Search Console setup milestones
+- Mapped out a quarterly growth strategy to support authority-building and organic ranking
+
+---
+
+## Key Insights
+
+- A new domain must balance technical optimization and content authority
 - High engagement on platforms like TikTok and YouTube can drive trust and visibility
 - Managing backlink health (removal, disavow, ratio of follow links) is critical for long-term SEO
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
-- Technical SEO & site health auditing  
+- Technical SEO and site health auditing  
 - Strategic marketing planning  
 - Competitor analysis  
 - Google tools setup (Search Console, Analytics)  
