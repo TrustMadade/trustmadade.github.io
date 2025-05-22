@@ -1,4 +1,4 @@
-# 📊 Trust Madade – Marketing Analytics Portfolio
+# Trust Madade – Marketing Analytics Portfolio
 
 Welcome to my portfolio – a showcase of real-world marketing analytics projects built using data, strategy, and storytelling. I’m passionate about transforming raw data into actionable insights that drive smart business decisions.
 
