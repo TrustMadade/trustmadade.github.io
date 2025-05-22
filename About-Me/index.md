@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 ## From Zimbabwe to San Francisco
 
 <p align="center">
