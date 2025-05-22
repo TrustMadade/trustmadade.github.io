@@ -1,24 +1,18 @@
-# 🔹 Site Information
-title: "Trust Madade | Marketing Analytics & Data Strategy"
+title: "Trust Madade | Marketing Analyst"
 description: "Marketing Analyst leveraging data analytics to optimize campaigns, customer engagement, and business growth."
 url: "https://trustmadade.github.io"
 baseurl: "/portfolio"
 
-# 🛠 SEO Optimization
 author: "Trust Madade"
 keywords: "Marketing Analytics, Consumer Insights, Campaign Performance, SQL, Python, Tableau, Power BI"
-google_analytics: "UA-XXXXXXXXX-X"  # (Replace with your Google Analytics Tracking ID)
 
-# 🎨 Design & Branding
-theme: minima  # You can change this theme to a custom one
-favicon: "assets/favicon.ico"  # Ensure your favicon image is added in assets
+theme: minima  
+favicon: "assets/favicon.ico" 
 
-# 📢 Social Media Links
 linkedin: "https://linkedin.com/in/trustmadade"
 github: "https://github.com/TrustMadade"
 portfolio: "https://trustmadade.github.io/portfolio"
 
-# 📝 Navigation Menu (for structured portfolio pages)
 nav_links:
   - title: "Home"
     url: "/"
@@ -29,7 +23,6 @@ nav_links:
   - title: "Contact"
     url: "/contact"
 
-# 🔍 Plugins & Enhancements
 plugins:
   - jekyll-seo-tag  # Improves search engine visibility
   - jekyll-sitemap  # Generates a sitemap for indexing
