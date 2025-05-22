@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 <style>
   .about-image-row {
     display: flex;
